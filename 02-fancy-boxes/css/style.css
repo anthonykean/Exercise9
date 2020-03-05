@@ -21,8 +21,6 @@ box01 {
   background-color: rgba(28,104,167,0.8);
   padding-top: 20px;
   padding-right: 20px;
-  padding-bottom: 20px;
-  padding-left: 20px;
   margin: 20px,20px,20px,20px;
   border; 2px dotted rgba(28,104,167,1);
 }
@@ -30,6 +28,7 @@ box01 {
 #box03 {
   background-color: rgba(28,104,167,0.6);
   margin: 20px,20px,20px,20px;
+  padding-right: 20px;
   border-top; 2px dotted rgba(28,104,167,1);
   border-bottom; 2px dotted rgba(28,104,167,1);
 }
@@ -39,6 +38,6 @@ box01 {
   margin: 20px,20px,20px,20px;
   border-left; 2px dotted rgba(28,104,167,1);
   border-bottom; 2px dotted rgba(28,104,167,1);
-  padding:20px;
+  padding: 20px;
 }
 /* Add your styles for each box below this line */
